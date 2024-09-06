@@ -7,7 +7,7 @@ Table1 shows the summary of findings for this current epoch period i.e Epoch
 - **% TUs:**  uptime percentage out of total participated addresses e.g the 696 addresses that had perfect epoch form 46.46% of the total participated addresses
 - **Rewards:** Total rewards in Humanode native token distributed for each attained epoch
 - **% TDR:** percentage of the reward distributed for each epoch out of the total distributed rewards of 121154.86 units of humanode token
-#### [View Tabel1](sep_.csv)
+#### [View Tabel1](sep1_.csv)
 ## Broader Review.
 From the beginning of July to the last report, they have being a total of 2986 humanodes that participated in validating and securing transactions in the blockchain. Out of this number, 838 humanodes representing 28.06% of these addresses have participated concurrently in the program, of which 318 of these addresses maintained perfect uptime throughout the said periods; These concurrent addresses form 96.95% of the  participated addresses who had perfect uptime of 84 epochs in epoch_3518-3601, 97.17% of epoch_3602-3685, 80.17% of epoch_3686-3769, 68.99% of epoch_3770-3853, 56.61% of epoch_3854-3937
 Also since Epoch_3518 to date, number of addresses that attained perfect epoch i.e 84 epochs per period has being on the increase steadily.
