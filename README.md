@@ -30,6 +30,6 @@ Lastly Table3 shows consistent addresses who participated all through  the whole
 #### [View Table 3](tab2.csv)
 ## About Humanode and its Validator program
 Humanode is a Blockchain tech firm which prioritize proof of biometrics uniqueness and liveness in the development of her technology. Her technology is a strong catalyst for the fight against Sybil resistance in the web3 space; Humanode prides herself to be the first blockchain firm in the blockchain space to provide crypto-biometrics related services. Her validator programs and mode of remuneration stand among the best yielding validating and mining rewards in the blockchain space, the program gives about 96 percent return on the cost of server needed to maintain chain security.
-#### Visit [humanode.io](https://airtable.com/appfsSKumcrSZFiCn/shrMPPKawloCUWb5T/tblEYpPvVvrFSLDO5/viw1FkQcZHio3VCJH?blocks=hide) for more details
+#### Visit [humanode.io](https://humanode.io) for more details
 #### 
-**Raw data used for this analysis can be found on [airtable.com](https://airtable.com)**
+**Raw data used for this analysis can be found on [airtable.com](https://airtable.com/appfsSKumcrSZFiCn/shrMPPKawloCUWb5T/tblEYpPvVvrFSLDO5/viw1FkQcZHio3VCJH?blocks=hide)**
